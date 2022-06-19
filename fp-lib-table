@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "tauntek-hat")(type "KiCad")(uri "${KIPRJMOD}/tauntek-hat.pretty")(options "")(descr ""))
+)
