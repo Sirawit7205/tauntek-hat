@@ -2490,7 +2490,7 @@
     (uuid e14aef9d-bcb2-4f21-943c-230b7e6ba0ed)
     (property "Reference" "J3" (id 0) (at 34.29 34.29 0))
     (property "Value" "USB-TYPE-C-018" (id 1) (at 34.29 36.83 0))
-    (property "Footprint" "tauntek-hat:USB_C_Receptacle_HRO_TYPE-C-31-M-12_NO_SBU" (id 2) (at 38.1 57.15 0)
+    (property "Footprint" "" (id 2) (at 38.1 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (id 3) (at 38.1 57.15 0)
